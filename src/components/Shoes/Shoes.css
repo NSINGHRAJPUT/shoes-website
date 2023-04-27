@@ -1,0 +1,44 @@
+.meals {
+  background-color: rgba(255, 255, 255);
+  border-radius: 50px;
+  padding-top: 20px;
+  bottom: 150px;
+  padding-bottom: 10px;
+}
+.price {
+  color: rgb(4, 118, 15);
+}
+.description {
+  font-style: italic;
+}
+.item {
+  position: relative;
+  left: 80%;
+}
+.item-input {
+  width: 5%;
+  border-radius: 10px;
+  text-align: center;
+}
+button {
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  background-color: #1ba106;
+  color: white;
+  padding: 0.75rem 3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bold;
+}
+label {
+  font-weight: 600;
+}
+form{
+  display: flex;
+}
+hr{
+  width: 90%;
+}

@@ -1,0 +1,15 @@
+.form{
+    margin: 10% 20% 1% 30%;
+    display: inline-grid;
+    justify-content: center;
+    
+}
+.qty input{
+    width: 5%;
+   
+}
+.form input{
+    border: 1px solid gray;
+    border-radius: 25px;
+    height: 150%;
+}
